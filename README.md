@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Mi nombre es Rodrigo Lago,</h1>
 <h3 align="center">Desarrollador Full-Stack Ssr .Net + React</h3>
 
-- 📫 ¿Cómo puedes contactarme? **rilago@protonmail.com**
+📫 ¿Cómo puedes contactarme? **rilago@protonmail.com**
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
