@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Mi nombre es Rodrigo Lago</h1>
+<h1 align="center">Hola! Mi nombre es Rodrigo Iván Lago</h1>
 <h3 align="center">Soy desarrollador Full-Stack .Net + React</h3> 
 
 📫 Mail de contacto: **rilago@protonmail.com**
